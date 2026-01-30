@@ -1,0 +1,28 @@
+p {
+	color: snow;
+	background: black;
+	font-weight: bold;
+	text-align: center;
+}
+h1 { 
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5); 
+}
+h1 {
+	text-decoration: underline;
+	text-align: center;
+	margin-top: 50px;
+}
+h2 {
+	text-align: center;
+}
+
+ol {
+	list-style-type: upper-roman;
+	display: grid;
+	place-items: center;
+}
+ul {
+	list-style-type: square;
+	display: grid;
+	place-items: center;
+}
