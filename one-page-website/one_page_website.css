@@ -1,0 +1,14 @@
+/*Import link for the Josefin Slab from fonts.google.com*/
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Slab&display=swap');
+
+body {
+    font-family: 'Josefin Slab', serif;
+    font-size: 18px;
+}
+
+input[type="text"], input[type="email"], textarea {
+    width: 100%; /*A. Sets the width of the input fields to 100% of their container */
+    margin-bottom: 15px; /*B. Margin bottom for spacing between input fields*/
+    border: 2px solid #ccc; /*C. Border for the input fields*/
+    border-radius: 8px; /*D. Rounded corners for the input fields*/
+}
